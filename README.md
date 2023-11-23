@@ -14,7 +14,7 @@ Certifique-se de ter o seguinte instalado em seu sistema:
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/maquina-fornecedor.git
+   git clone https://github.com/gabrielvettorazzi/maquina-fornecedor.git
 Navegue para o Diretório:
 
 bash
