@@ -23,18 +23,23 @@ Certifique-se de ter o seguinte instalado em seu sistema:
  -dotnet rum
 
 O software vai ser iniciado e voce vera a mensagem "Bem vindo a maquina".
+## Como Interagir com o software
 
-## Como interagir com o software
+### Inserir Moedas:
 
-Inserir Moedas:
-Digite os valores das moedas separadas por espaço.
-Por exemplo: 0.25 1.00 0.10.
+Digite os valores das moedas separados por espaço. Por exemplo: 
 
-
-Solicitar Produto:
-Digite o nome do produto desejado.
-Por exemplo: Coca-Cola.
+Digite os valores das moedas separados por espaço
 
 
-Obter alteração:
-Digite CHANGE para obter a alteração.
+Digite os valores
+`0.25 1.00 0.10`.
+
+### Solicitar Produto:
+
+Digite o nome do produto desejado. Por exemplo:
+`Coca-Cola`.
+
+### Obter Alteração:
+
+Digite `CHANGE` para obter a alteração.
