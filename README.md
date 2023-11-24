@@ -25,7 +25,9 @@ dotnet run
 ## Como Interagir com o Aplicativo
 -Inserir Moedas:
   Digite os valores das moedas separados por espaço. Por exemplo: 0.25 1.00 0.10.
+  
 -Solicitar Produto:
   Digite o nome do produto desejado. Por exemplo: Coca-Cola.
+  
 -Obter Alteração: 
   Digite CHANGE para obter a alteração.
