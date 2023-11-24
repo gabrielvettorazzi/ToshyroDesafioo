@@ -1,7 +1,8 @@
 # Toshyro
-# Máquina de Fornecedor Console App
+# Máquina para o fornecedor
 
-Este é um aplicativo de máquina de fornecedor simples, desenvolvido em C#, que simula a interação com uma máquina de venda automática. Os clientes podem inserir moedas, solicitar produtos e obter alteração.
+Este é um software para uma maquina de um fornecedor, desenvolvido em C#, que simula a interação com uma máquina de venda.
+ Os clientes podem inserir moedas, solicitar produtos e obter alteração.
 
 ## Pré-requisitos
 
@@ -15,25 +16,16 @@ Certifique-se de ter o seguinte instalado em seu sistema:
 1. **Clone o Repositório:**
    ```bash
    git clone https://github.com/gabrielvettorazzi/maquina-fornecedor.git
-Navegue para o Diretório:
-
-bash
-Copy code
-cd maquina-fornecedor
-Execute o Aplicativo:
-
-bash
-Copy code
+## Navegue para o Diretório:
+-cd maquina-fornecedor
+## Execute o Aplicativo
 dotnet run
-O aplicativo será iniciado e você verá a mensagem "Bem-vindo à Máquina de Fornecedor!".
+-O aplicativo vai ser iniciado e você verá a mensagem "Bem-vindo à Máquina !".
 
-Como Interagir com o Aplicativo
-Inserir Moedas:
-
-Digite os valores das moedas separados por espaço. Por exemplo: 0.25 1.00 0.10.
-Solicitar Produto:
-
-Digite o nome do produto desejado. Por exemplo: Coca-Cola.
-Obter Alteração:
-
-Digite CHANGE para obter a alteração.
+## Como Interagir com o Aplicativo
+-Inserir Moedas:
+  Digite os valores das moedas separados por espaço. Por exemplo: 0.25 1.00 0.10.
+-Solicitar Produto:
+  Digite o nome do produto desejado. Por exemplo: Coca-Cola.
+-Obter Alteração: 
+  Digite CHANGE para obter a alteração.
