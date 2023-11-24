@@ -4,10 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Toshyro
-{
-    using System;
-    using System.Collections.Generic;
+namespace ToshyroD {
 
     class VendingMachine
     {
@@ -39,11 +36,11 @@ namespace Toshyro
 
         static void Main()
         {
-            Console.WriteLine("Bem-vindo à Máquina de Fornecedor!");
+            Console.WriteLine("Bem-vindo à Máquina!!");
 
             while (true)
             {
-                Console.WriteLine("Digite 'CHANGE' para obter a alteração, o nome do produto para comprá-lo, ou insira moedas:");
+                Console.WriteLine("Digite 'CHANGE' para obter a alteração, o nome do produto para comprá-lo, ou você pode adicionar moedas:");
 
                 string userInput = Console.ReadLine().Trim();
 
@@ -76,7 +73,7 @@ namespace Toshyro
                         customerBalance += coin;
                         coinInventory[coin]--;
 
-                        Console.WriteLine($"Moeda de {coin:C} inserida. Saldo atual: {customerBalance:C}");
+                        Console.WriteLine($"Moeda de {coin:C} inserida. Saldo atual de: {customerBalance:C}");
                     }
                     else
                     {
@@ -113,11 +110,11 @@ namespace Toshyro
             }
             else if (productInventory[productName] == 0)
             {
-                Console.WriteLine($"Desculpe, {productName} está esgotado. Escolha outro produto.");
+                Console.WriteLine($"Lamento, {productName} está esgotado. Escolha outro produto.");
             }
             else
             {
-                Console.WriteLine("Saldo insuficiente. Insira mais moedas ou escolha outro produto.");
+                Console.WriteLine("Saldo insuficiente. Insira mais moedas para continuar ou escolha outro produto.");
             }
         }
 
