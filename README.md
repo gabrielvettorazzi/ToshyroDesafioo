@@ -15,10 +15,9 @@ Certifique-se de ter o seguinte instalado em seu sistema:
 1. **Clone o Repositório:**
    git clone https://github.com/gabrielvettorazzi/ToshyroDesafioo.git
 2-Navegue para o diretorio
- -cd ToshyroDesafioo
- 
-3-Execute o programa
- -dotnet rum
+ -cd ToshyroDesafioo\bin\Debug
+
+3-Dentro da pasta Debug vai ter um arquivo executavel
 
 O software vai ser iniciado e voce vera a mensagem "Bem vindo a maquina".
 ## Como Interagir com o software
