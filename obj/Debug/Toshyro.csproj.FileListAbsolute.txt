@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Documentos\projetoo\ToshyroDesafioo\bin\Debug\Toshyro.exe.config
+C:\Users\gabri\OneDrive\Documentos\projetoo\ToshyroDesafioo\bin\Debug\Toshyro.exe
+C:\Users\gabri\OneDrive\Documentos\projetoo\ToshyroDesafioo\bin\Debug\Toshyro.pdb
+C:\Users\gabri\OneDrive\Documentos\projetoo\ToshyroDesafioo\obj\Debug\Toshyro.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\projetoo\ToshyroDesafioo\obj\Debug\Toshyro.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\projetoo\ToshyroDesafioo\obj\Debug\Toshyro.exe
+C:\Users\gabri\OneDrive\Documentos\projetoo\ToshyroDesafioo\obj\Debug\Toshyro.pdb
