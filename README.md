@@ -15,8 +15,10 @@ Certifique-se de ter o seguinte instalado em seu sistema:
 
 1. **Clone o Repositório:**
    git clone https://github.com/seu-usuario/maquina-fornecedor.git
+   
 2-Navegue para o diretorio
  -cd maquina-fornecedor
+ 
 3-Execute o programa
  -dotnet rum
 
@@ -25,10 +27,14 @@ O software vai ser iniciado e voce vera a mensagem "Bem vindo a maquina".
 ## Como interagir com o software
 
 Inserir Moedas:
-Digite os valores das moedas separadas por espaço. Por exemplo: 0.25 1.00 0.10.
+Digite os valores das moedas separadas por espaço.
+Por exemplo: 0.25 1.00 0.10.
+
 
 Solicitar Produto:
-Digite o nome do produto desejado. Por exemplo: Coca-Cola.
+Digite o nome do produto desejado.
+Por exemplo: Coca-Cola.
+
 
 Obter alteração:
 Digite CHANGE para obter a alteração.
