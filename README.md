@@ -12,7 +12,6 @@ Certifique-se de ter o seguinte instalado em seu sistema:
 - [.NET SDK](https://dotnet.microsoft.com/download)
 
 ## Como Executar o Aplicativo
-
 1. **Clone o Repositório:**
    git clone https://github.com/seu-usuario/maquina-fornecedor.git
    
