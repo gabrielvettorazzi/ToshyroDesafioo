@@ -29,9 +29,6 @@ O software vai ser iniciado e voce vera a mensagem "Bem vindo a maquina".
 
 Digite os valores das moedas separados por espaço. Por exemplo: 
 
-Digite os valores das moedas separados por espaço
-
-
 Digite os valores
 `0.25 1.00 0.10`.
 
