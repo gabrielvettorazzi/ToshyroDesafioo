@@ -14,8 +14,11 @@ Certifique-se de ter o seguinte instalado em seu sistema:
 ## Como Executar o Aplicativo
 1. **Clone o Repositório:**
    git clone https://github.com/gabrielvettorazzi/ToshyroDesafioo.git
+
+   
 2-Navegue para o diretorio
  -cd ToshyroDesafioo\bin\Debug
+ 
 
 3-Dentro da pasta Debug vai ter um arquivo executavel
 
