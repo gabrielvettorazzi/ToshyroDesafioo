@@ -13,7 +13,7 @@ Certifique-se de ter o seguinte instalado em seu sistema:
 
 ## Como Executar o Aplicativo
 1. **Clone o Repositório:**
-   git clone https://github.com/seu-usuario/maquina-fornecedor.git
+   git clone https://github.com/gabrielvettorazzii/ToshyroDesafioo.git
    
 2-Navegue para o diretorio
  -cd maquina-fornecedor
